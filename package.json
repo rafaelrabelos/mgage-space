@@ -1,0 +1,23 @@
+{
+  "name": "mgage-space",
+  "version": "1.0.0",
+  "description": "multi plataform for multi games tools",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelrabelos/mgage-space.git"
+  },
+  "author": "Rafael Rabelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelrabelos/mgage-space/issues"
+  },
+  "homepage": "https://github.com/rafaelrabelos/mgage-space#readme",
+  "devDependencies": {
+    "electron": "^29.1.0"
+  }
+}
